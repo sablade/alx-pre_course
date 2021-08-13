@@ -1,2 +1,2 @@
 # First Repo In The ALX SE course.
-** Vhim dey
+** So far so good. Getting a hang of this little by little.
